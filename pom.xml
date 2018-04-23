@@ -14,6 +14,12 @@
     	<maven.compiler.target>1.7</maven.compiler.target>
     </properties>
     
+    <properties>
+        <java.version>1.6</java.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <start-class>com.autonavi.App</start-class>
+    </properties>
+    
     <dependencies>
         <dependency>
             <groupId>javax</groupId>
